@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-layout_style: grid
+layout_style: list
 palette: green
 header:
   title: Ampersand
