@@ -23,6 +23,7 @@ header:
     - label: Contact
       url: /contact
       style: link
+  title: TechPe
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
